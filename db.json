@@ -1,0 +1,2691 @@
+{
+  "menu": {
+    "titleMov": "movies",
+    "titleTv": "tv shows",
+    "titleCelebs": "celebs",
+    "titleWatch": "watch",
+    "titleAwards": "awards & events",
+    "titleCommunity": "community",
+    "movies": [
+      {
+        "id": 1,
+        "name": "Release calendar"
+      },
+      {
+        "id": 2,
+        "name": "Top 250 movies"
+      },
+      {
+        "id": 3,
+        "name": "Most popular movies"
+      },
+      {
+        "id": 4,
+        "name": "Browse movies by genre"
+      },
+      {
+        "id": 5,
+        "name": "Top box office"
+      },
+      {
+        "id": 6,
+        "name": "Showtimes & Tickets"
+      },
+      {
+        "id": 7,
+        "name": "DVD & Blu-Ray"
+      },
+      {
+        "id": 8,
+        "name": "India cinema"
+      },
+      {
+        "id": 9,
+        "name": "Awards & Events"
+      }
+    ],
+    "tvshows": [
+      {
+        "id": 5,
+        "name": "what's on TV & Streaming"
+      },
+      {
+        "id": 2,
+        "name": "Top 250  TV shows"
+      },
+      {
+        "id": 1,
+        "name": "Most popular TV shows"
+      },
+      {
+        "id": 3,
+        "name": "Browse TV shows by genre"
+      },
+      {
+        "id": 4,
+        "name": "TV news"
+      },
+      {
+        "id": 6,
+        "name": "Awards & Events"
+      }
+    ],
+    "celebs": [
+      {
+        "id": 1,
+        "name": "Born Today"
+      },
+      {
+        "id": 2,
+        "name": "Most Popular celebs"
+      },
+      {
+        "id": 3,
+        "name": "Celebrity News"
+      }
+    ],
+    "watch": [
+      {
+        "id": 1,
+        "name": "what to watch"
+      },
+      {
+        "id": 2,
+        "name": "latest trailers"
+      },
+      {
+        "id": 3,
+        "name": "imdb originals"
+      },
+      {
+        "id": 4,
+        "name": "imdb picks"
+      },
+      {
+        "id": 5,
+        "name": "imdb spotlight"
+      },
+      {
+        "id": 6,
+        "name": "family entertainment guide"
+      },
+      {
+        "id": 7,
+        "name": "imdb podcasts"
+      }
+    ],
+    "awards": [
+      {
+        "id": 1,
+        "name": "Oscars"
+      },
+      {
+        "id": 2,
+        "name": "haliday watch guide"
+      },
+      {
+        "id": 3,
+        "name": "Golden Globes"
+      },
+      {
+        "id": 4,
+        "name": "gothams awards"
+      },
+      {
+        "id": 5,
+        "name": "festival central"
+      },
+      {
+        "id": 6,
+        "name": "Venice Film Festival"
+      },
+      {
+        "id": 7,
+        "name": "starmeter awards"
+      }
+    ],
+    "community": [
+      {
+        "id": 1,
+        "name": "help center"
+      },
+      {
+        "id": 2,
+        "name": "contributor zone"
+      },
+      {
+        "id": 3,
+        "name": "polls"
+      }
+    ]
+  },
+  "trailer": [
+    {
+      "id": "1",
+      "title": "GOAT",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGQ4M2FlNTEtNDc1Yy00NGIyLTk1MTItZGU0ZmIyODkyZGNjXkEyXkFqcGc@._CR550,87,2825,1589_QL75_UY563_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BYzE5OTJkOGMtYWFiNi00NTlkLWE3ZWItY2ZlNjkyOWVhMjMyXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "2:43",
+      "like": 88,
+      "love": 52
+    },
+    {
+      "id": "2",
+      "title": "'Dead Man's Wire'",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzIyZjFjNmItYzJiYy00NzFlLThhZWItYzUwZjA4ZDM5ODkyXkEyXkFqcGc@._CR499,446,3947,2220_QL75_UY563_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BYzJhZTFjYjQtOGRiYS00ZWZjLWJmYTMtYWY0ZDMzMjM5YmY5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "2:29",
+      "like": 56,
+      "love": 18
+    },
+    {
+      "id": "3",
+      "title": "'The Dutchman'",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2VlOWRmYzQtNDc4Mi00NjRmLTgyMzYtNzI5YmMxMmE5NmE1XkEyXkFqcGc@._CR221,86,3755,2112_QL75_UY563_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZGI0YTBlMGMtYjA4NS00N2M4LTk3NjQtYjZhYTJlODNlZmUzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "2:05",
+      "like": 99,
+      "love": 34
+    },
+    {
+      "id": "4",
+      "title": "Will There Be a 'Wicked 3'?",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDRkNDM4YTUtODNlOS00NWQ3LWFlM2EtN2RiNjI4ZWYzZGUyXkEyXkFqcGdeQWZlZGVyaWdh._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "3:42",
+      "like": 376,
+      "love": 129
+    },
+    {
+      "id": "5",
+      "title": "'The Hunger Games ",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzE1OTg5YzMtYTg3OS00YzRlLWE2ZTItM2RlNTZkMzkzMGZhXkEyXkFqcGc@._CR11,6,1257,707_QL75_UY563_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNTdkZDQzNzUtYjZjYy00Mzc3LWFlOWItMmVlYWUwNTAwNjRjXkEyXkFqcGc@._V1_QL75_UY414_CR16,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "1:34",
+      "like": 241,
+      "love": 92
+    },
+    {
+      "id": "6",
+      "title": " 'Stranger Things' Season 5",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjJjN2ZjOTAtYjUwZS00Y2M3LWE4Y2MtNDJiZDlhNDg3YmM1XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "2:25",
+      "like": 901,
+      "love": 512
+    },
+    {
+      "id": "7",
+      "title": "We Have Questions for the 'Stranger Things' Cast",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjU3M2I4ZDUtYWE4Mi00N2NkLWFlMzktMGYzNjc0MzcxNGJhXkEyXkFqcGdeQWZlZGVyaWdh._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "9:18",
+      "like": 278,
+      "love": 145
+    },
+    {
+      "id": "8",
+      "title": "Ryan Gosling Stars in 'Project Hail Mary'",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWMyNTA5OTItMmEyMy00MmQ4LTg0ODAtMTkwNmU1OWM1NzNmXkEyXkFqcGc@._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BYTI4MzYxYzAtMDk1Yi00MDljLWEyM2ItODZmNzZhNTUwMmU4XkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "2:32",
+      "like": "1.1k",
+      "love": 521
+    },
+    {
+      "id": "9",
+      "title": "Industry",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjJkYjM0ODgtMmEwNC00MGMwLWFhYjktYjUwNDkxMTg4NjFlXkEyXkFqcGc@._CR193,439,1409,793_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZGVmMDQzMTQtZWVlNC00YTQ2LTkyYzgtYTMyN2U1YmI3ZjJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "1:30",
+      "like": 44,
+      "love": 17
+    },
+    {
+      "id": "10",
+      "title": "Movie Memories With George Clooney & the 'Jay Kelly' Cast",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjMwNWUxMTYtZDkzMS00NWJiLTgxNTMtNTU2YWE3ZGEzMWYzXkEyXkFqcGdeQWZlZGVyaWdh._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNTI3MDkzNjctOTY2Ni00ZTJiLWI5N2ItNDI2MzI4MWJlMTMyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "6:35",
+      "like": 78,
+      "love": 29
+    },
+    {
+      "id": "11",
+      "title": "'Hamnet' Is Chloé Zhao's Alt Take on Shakespeare",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQ4MDQ0NzgtN2I1Zi00MmI3LTg0ZDItNmY2MjNhNDA0NWE2XkEyXkFqcGc@._CR14,470,4189,2356_QL75_UY563_CR0,0,1000,563_.jpg",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZjBmZDYyYmQtMzZiZi00NTM0LWE1ZmItMmQ2NGRmNDQxODAwXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "link": "Watch the Trailer",
+      "duration": "2:34",
+      "like": 41,
+      "love": 13
+    }
+  ],
+  "featured": {
+    "title": "featured today",
+    "list": [
+      {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/M/MV5BYjg0NWE2NDMtYWMwYi00ZWUyLWIzZjMtYjY4MGNhNDFmZTYzXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "IMDb Staff's Favorite Movies of 2025",
+        "link": "See our picks"
+      },
+      {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjRjOGFhZGEtM2VjMC00MzJmLTk1NGQtM2E1MGRiNjdkMTZjXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "IMDb Staff's Favorite Movies of 2025",
+        "link": "See our picks"
+      },
+      {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/M/MV5BNjRjZDQ2OGUtODBhMS00OGIzLWEwZmQtMTNlNDUyMDcxOGM2XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "Hollywood Power Couples",
+        "link": "See our picks"
+      },
+      {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/M/MV5BYmNjZjU0MWEtNjBkNS00NjQ3LWI2MmYtM2NmOThhMDA0OGRkXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "The Best New Photos of the Week",
+        "link": "See our picks"
+      },
+      {
+        "id": 5,
+        "image": "https://m.media-amazon.com/images/M/MV5BYjYwNDFlZTAtNmU4Mi00MGNmLWFhYzAtYzE3OWJiZDBhYzg5XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "Staff Picks: What to Watch in December",
+        "link": "See our picks"
+      },
+      {
+        "id": 6,
+        "image": "https://m.media-amazon.com/images/M/MV5BMjc4MjBhMzQtMjRmYy00ZWVhLWIzZGQtMGZmMjQ0MDEzZGIzXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "In Memoriam: Stars We Lost in 2025",
+        "link": "See our picks"
+      },
+      {
+        "id": 7,
+        "image": "https://m.media-amazon.com/images/M/MV5BYzgyZjE4MTktNmJiZC00YWExLTlhMWQtOTg4YWVmZjI2NDA1XkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "TV Tracker: Renewed and Canceled Shows",
+        "link": "See our picks"
+      },
+      {
+        "id": 8,
+        "image": "https://m.media-amazon.com/images/M/MV5BYzI4YTliOWUtMzYwMC00NzNmLThiYzQtOGIyZjY5OGE0YTNiXkEyXkFqcGc@._V1_QL75_UX760_CR0,0,760,428_.jpg",
+        "desc": "In Memoriam: Stars We Lost in 2025",
+        "link": "See our picks"
+      }
+    ]
+  },
+  "popular": [
+    {
+      "id": "1",
+      "name": "Cary-Hiroyuki Tagawa",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0MDEyMjcxMV5BMl5BanBnXkFtZTgwMDE5MDcwMTI@._V1_QL75_UX280_CR0,10,280,280_.jpg",
+      "rating": {
+        "rank": 10,
+        "incRate": 24
+      }
+    },
+    {
+      "id": "2",
+      "name": "Ryan Eggold",
+      "image": "https://m.media-amazon.com/images/M/MV5BZThiZTg1MGUtMDYyMy00NDYwLTgxOGEtMGU2NTAzMDMwMTIyXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "rating": {
+        "rank": 39,
+        "incRate": 121
+      }
+    },
+    {
+      "id": "3",
+      "name": "Nell Fisher",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmU3YWE1MGEtNTM1Mi00YjI1LWJlMmEtN2QwYTY2OGNkODRhXkEyXkFqcGc@._V1_CR140,21,3333,5000_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 1,
+        "incRate": "-"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Millie Bobby Brown",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA0NzQzMF5BMl5BanBnXkFtZTgwMTQxNjUzNjM@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 2,
+        "incRate": "-"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Natalia Dyer",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDMwNWRkMTktMjQxMi00OGJjLWFjNDItNTU0ZmNiYjYwYTBhXkEyXkFqcGc@._V1_QL75_UX280_CR0,8,280,280_.jpg",
+      "rating": {
+        "rank": 3,
+        "incRate": "-"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Natalia sinc",
+      "image": "https://m.media-amazon.com/images/M/MV5BODI0ZTRlM2MtNDYxNy00MWFhLWI4ODItZjllN2RlN2I5NmY4XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 5,
+        "incRate": "2"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Claire Danes",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMyMzQ1Mjk3M15BMl5BanBnXkFtZTcwNzk3ODMxNw@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "rating": {
+        "rank": 10,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Claire Danes",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTkxMzVlNWEtMjI2Yi00OTFkLWJkNjYtZGU5Mzg2MjEwNTc2XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 41,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Finn Wolfhard",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTlkZmM3YTYtMWIyYS00Y2UwLTk0YjAtZTdmNmFjNjcyMDNiXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 15,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Maya Hawke",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmI1MTE3NTEtYWE0Yy00ZGU1LTgwZWEtMTE2MDg4ZTg4ZWExXkEyXkFqcGc@._V1_QL75_UY280_CR70,0,280,280_.jpg",
+      "rating": {
+        "rank": 56,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Jamie Campbell ",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmI0MzkyM2UtNTU5MC00ZDY0LWFiZTUtM2NlOTkxMGFlNGI4XkEyXkFqcGc@._V1_QL75_UY280_CR70,0,280,280_.jpg",
+      "rating": {
+        "rank": 88,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Cara Buono",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzhlMDdlNjAtNDBkMi00ZGNjLWI5ZjItNGY1NjFhYzljY2MwXkEyXkFqcGc@._V1_CR721,97,3333,5000_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 14,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Noah Schnapp",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzAxMWYxOWItZDkzNC00Yzc2LWE0Y2UtNTc2ODA3YTBlZGYzXkEyXkFqcGc@._V1_QL75_UX280_CR0,11,280,280_.jpg",
+      "rating": {
+        "rank": 19,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Hudson Williams",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjhiYjAwMTQtOWZmMC00NmUzLTg5ZTItZWNjYWJmYjA5ZDIxXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 19,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Linda Hamilton",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTI1MmRmYmMtYTZiMy00NGFkLThkMGEtNjgyYjFhMzE2NjUzXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "rating": {
+        "rank": 59,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Matthew Rhys",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDZmM2JjYmMtNWJlNS00YzMxLWI0MDAtOGVkYTZlYjMyM2U5XkEyXkFqcGc@._V1_QL75_UX280_CR0,19,280,280_.jpg",
+      "rating": {
+        "rank": 49,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "17",
+      "name": "Gaten Matarazzo",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTVkMzY0NWMtNTk1NC00ZGEwLWIwZjktM2U4MmFiN2YwYTQwXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 19,
+        "incRate": "2"
+      }
+    },
+    {
+      "id": "18",
+      "name": "alex Matarazzo",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMwMzE1OTc0OF5BMl5BanBnXkFtZTcwMDU2NTg0Nw@@._V1_QL75_UX280_CR0,7,280,280_.jpg",
+      "rating": {
+        "rank": 53,
+        "incRate": "2"
+      }
+    },
+    {
+      "id": "19",
+      "name": "Ali Larter",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE0MzA4Njc1NF5BMl5BanBnXkFtZTcwOTczNTUxNw@@._V1_QL75_UX280_CR0,3,280,280_.jpg",
+      "rating": {
+        "rank": 53,
+        "incRate": "2"
+      }
+    },
+    {
+      "id": "20",
+      "name": "Connor Storrie",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzA1ZjI0M2ItOGQxNi00ODg3LTk0NGItM2FjYzQ5Mzc0NWNlXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 53,
+        "incRate": "2"
+      }
+    },
+    {
+      "id": "21",
+      "name": "Winona Ryder",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NzM3MTc2NF5BMl5BanBnXkFtZTcwODMxNjA0NA@@._V1_QL75_UX280_CR0,5,280,280_.jpg",
+      "rating": {
+        "rank": 53,
+        "incRate": "2"
+      }
+    },
+    {
+      "id": "22",
+      "name": "Sydney Sweeney",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTIwYmNjMjctYTAyZi00Njg0LWJmZWQtZTc1MmZjZjBiMmQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,280_.jpg",
+      "rating": {
+        "rank": 1,
+        "incRate": "1"
+      }
+    },
+    {
+      "id": "23",
+      "name": "Charlie Heaton",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyNDUxOTAzNF5BMl5BanBnXkFtZTgwMjc3OTIxMjE@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+      "rating": {
+        "rank": 19,
+        "incRate": "13"
+      }
+    },
+    {
+      "id": "24",
+      "name": "Leonardo DiCaprio",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_QL75_UX280_CR0,3,280,280_.jpg",
+      "rating": {
+        "rank": 51,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "25",
+      "name": "Mckenna Grace",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTI4YzM4ZmQtM2Q3OS00NWM1LTk0ZjYtZmMyMmI1M2ZiNjU2XkEyXkFqcGc@._V1_CR2,1,1666,2499_QL75_UX280_CR0,24,280,280_.jpg",
+      "rating": {
+        "rank": 31,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "26",
+      "name": "Mckenna Grace",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzNjI0Njc5NF5BMl5BanBnXkFtZTYwOTM2MjYz._V1_QL75_UX280_CR0,25,280,280_.jpg",
+      "rating": {
+        "rank": 31,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "27",
+      "name": "Minka Kelly",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA1MzcwNTQyNDJeQTJeQWpwZ15BbWU4MDMzMzY0NTgx._V1_QL75_UX280_CR0,15,280,280_.jpg",
+      "rating": {
+        "rank": 31,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "28",
+      "name": "Jacob Elordi",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmI4MDM3ZWEtNzhhMi00MzQzLWI4MmUtZjliMzU1NzhhM2FiXkEyXkFqcGc@._V1_QL75_UY280_CR63,0,280,280_.jpg",
+      "rating": {
+        "rank": 31,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "29",
+      "name": "Alexandra Breckenridge",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2VhYjJkZWEtMGFhMy00N2M4LTkwMTYtZTU0ZDhiNDkzNTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,29,280,280_.jpg",
+      "rating": {
+        "rank": 31,
+        "incRate": "12"
+      }
+    },
+    {
+      "id": "30",
+      "name": "Amanda Seyfried",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTM0ZDcxNzctMzIwNi00NjliLTg5YzEtZDc4MDk0MDFiNzA4XkEyXkFqcGc@._V1_QL75_UX280_CR0,6,280,280_.jpg",
+      "rating": {
+        "rank": 31,
+        "incRate": "12"
+      }
+    }
+  ],
+  "forYou": [
+    {
+      "id": "1",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "rating": "9.5",
+      "name": "The Usual Suspects",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "2",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rating": "9",
+      "name": "Chernobyl",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "3",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+      "rating": "8.5",
+      "name": "Léon: The Professional",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "4",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+      "rating": "8.3",
+      "name": "Terminator 2: Judgment Day",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "5",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rating": "6",
+      "name": "Heads of State",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "6",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+      "rating": "8.8",
+      "name": "Pulp Fiction",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "7",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+      "rating": "8.2",
+      "name": "One Flew Over the Cuckoo",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "8",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,10,280,414_.jpg",
+      "rating": "7.3",
+      "name": "Back to the Future",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "9",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rating": "8.5",
+      "name": "The Queen's Gambit",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rating": "6.4",
+      "name": "Eddington",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "11",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rating": "8.1",
+      "name": "Gladiator",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "13",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rating": "8.0",
+      "name": "Deadpool",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "14",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rating": "8.9",
+      "name": "scarface",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "15",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rating": "8.0",
+      "name": "Ratatouille",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "16",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rating": "8.9",
+      "name": "The Dark Knight Rises",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "18",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+      "rating": "9.2",
+      "name": "Band of Brothers",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "19",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rating": "9.3",
+      "name": "The Godfather Part II",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "20",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+      "rating": "9.7",
+      "name": "The Devil's Advocate",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "a594",
+      "image": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2918814/5921323/MOVGI2184__35960.1679571875.jpg?c=2",
+      "name": "no country for old men",
+      "rating": "8.3",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "2630",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "name": "shuter island",
+      "rating": "9.1",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "9b63",
+      "image": "https://m.media-amazon.com/images/I/71FcJqZjEqL._AC_UF894,1000_QL80_.jpg",
+      "name": "true detective",
+      "rating": "9.1",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "b355",
+      "image": "https://m.media-amazon.com/images/I/41+hF4S-cqL._AC_UF894,1000_QL80_.jpg",
+      "name": "The Sopranos",
+      "rating": "8.6",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "a37d",
+      "image": "https://i.pinimg.com/736x/d6/63/c5/d663c5d17d169bfb49f6536b5043d195.jpg",
+      "name": "breaking bad",
+      "rating": "9.1",
+      "link": "Watch now",
+      "end": "Trailer"
+    },
+    {
+      "id": "60cf",
+      "image": "https://m.media-amazon.com/images/I/71yz+cOKE8L.jpg",
+      "name": "sopranos",
+      "rating": "9.1",
+      "link": "Watch now",
+      "end": "Trailer"
+    }
+  ],
+  "topTen": [
+    {
+      "id": "1",
+      "title": "Avatar: Fire and Ash",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "year": "2025",
+      "time": "3h 24m",
+      "additional": "PG-13",
+      "rate": 8.4,
+      "countRating": "(92K)",
+      "description": "Jake and Neytiri's with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges."
+    },
+    {
+      "id": "2",
+      "title": "Wake Up Dead Man",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "year": "2025",
+      "time": "2h 24m",
+      "additional": "PG-13",
+      "rate": 7.4,
+      "countRating": "(92K)",
+      "description": "Jake and Neytiri's with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges."
+    },
+    {
+      "id": "3",
+      "title": "Stranger Things",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY414_CR26,0,280,414_.jpg",
+      "year": "2016–2025",
+      "time": "42 eps",
+      "additional": "TV-MA",
+      "rate": 7.1,
+      "countRating": "(34k)",
+      "description": "Benoit Blanc returns for his most dangerous case yet."
+    },
+    {
+      "id": "4",
+      "title": "Pluribus",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "year": "2025-",
+      "time": "10 eps",
+      "additional": "TV-MA",
+      "rate": 8.6,
+      "countRating": "(501k)",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+    },
+    {
+      "id": "5",
+      "title": "IT: Welcome to Derry",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWE0ZWM1MjUtNmYzYS00NzU3LTkxYmQtNmI3NTc0ZTY1NmVlXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg",
+      "year": "2025",
+      "time": "7eps",
+      "additional": "PG-13",
+      "rate": 8.1,
+      "countRating": "(192K)",
+      "description": "In 1962, a couple with their son move to Derry, Maine just as a young boy disappears. With their arrival, very bad things begin to happen in the town."
+    },
+    {
+      "id": "6",
+      "title": "Dhurandhar",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzFiNTVkZjYtM2I3Yi00MGNjLWEyYTAtMGViNGExZmMzMGMzXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg",
+      "year": "2024",
+      "time": "2h 13m",
+      "additional": "R",
+      "rate": 7.1,
+      "countRating": "(42K)",
+      "description": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within."
+    },
+    {
+      "id": "7",
+      "title": "The Abandons",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDllYzk2MWYtN2RmMi00YjJlLWI0OTMtODVhZThkOWQzMjQwXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+      "year": "2025",
+      "time": "3h 2m",
+      "additional": "PG-13",
+      "rate": 8.4,
+      "countRating": "(442K)",
+      "description": "When a corrupt force of wealth and power covets the lands of a group of diverse and atypical families and tries to drive them out, they must pursue their Manifest Destiny."
+    },
+    {
+      "id": "8",
+      "title": "Supergirl",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmYzN2VhNTAtYWUxZi00OTNiLWIyZDgtMGMxZTNlYzM3ZmE1XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg",
+      "year": "2026",
+      "time": "3h",
+      "additional": "PG-13",
+      "rate": null,
+      "countRating": "500k",
+      "description": "It follows Kara Zor-El's story and her darker origin before she finally made her way to Earth."
+    },
+    {
+      "id": "9",
+      "title": "Jay Kelly",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWRlNDM1NjktZDkyYi00Zjk0LWE5MTQtNWEyNzMwODY1Njc5XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg",
+      "year": "",
+      "time": "",
+      "additional": "",
+      "rate": null,
+      "countRating": "",
+      "description": ""
+    },
+    {
+      "id": "10",
+      "title": "Five Nights at Freddy's 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_QL75_UX180_CR0,9,180,266_.jpg",
+      "year": "",
+      "time": "",
+      "additional": "",
+      "rate": null,
+      "countRating": "",
+      "description": ""
+    }
+  ],
+  "myShow": [
+    {
+      "id": "1",
+      "title": "Avatar: Fire and Ash",
+      "rate": "7.4",
+      "popular": 1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "posterVideo": "https://m.media-amazon.com/images/M/MV5BZDI0OTI0ZjMtOWJiMS00ODg2LWIwYTgtZDliMjUzN2NlOGQxXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+      "gif": "http://localhost:5173/public/gif/avatar.gif",
+      "description": "Jake and Neytiri's with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+      "crew": {
+        "director": "James Cameron",
+        "writers": [
+          "James Cameron",
+          "Rick Jaffa",
+          "Amanda Silver"
+        ]
+      },
+      "ratings": {
+        "imdb": {
+          "userReviews": "1.1K",
+          "criticReviews": "180",
+          "metascore": 61
+        },
+        "awards": "13 wins & 34 nominations total",
+        "likes": {
+          "likeCount": "1,6k",
+          "loveCount": "890"
+        }
+      },
+      "images": {
+        "posters": [
+          "https://m.media-amazon.com/images/M/MV5BZDI0OTI0ZjMtOWJiMS00ODg2LWIwYTgtZDliMjUzN2NlOGQxXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMTJhYzViNmYtM2NkNi00NmEwLTljZjItZDA5NTk4YzIyYjhlXkEyXkFqcGdeQWpnYW1i._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        ],
+        "gallery": [
+          "https://m.media-amazon.com/images/M/MV5BNzg5Nzk0ZDEtZTVjZS00YTdiLTg3MmMtMWMwZTJlZTBlYzVjXkEyXkFqcGc@._V1_QL75_UX522_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BNjA2MTcyMTYtNWRlMy00ZmQwLThiYjctZTNjZGFkNzM3OTcyXkEyXkFqcGc@._V1_QL75_UX522_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMTBlZjBlMDUtNjZiOC00MTVmLTk0YTAtOTlkNjE5MTVlYzk4XkEyXkFqcGc@._V1_QL75_UX522_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BNzZkYjRmMzMtYjk3MC00NzExLTllZGYtOTZiOGFlMTg2YzIyXkEyXkFqcGc@._V1_QL75_UX522_.jpg"
+        ]
+      },
+      "cast": [
+        {
+          "id": 1,
+          "name": "Sam Worthington",
+          "role": "Jake",
+          "image": "https://m.media-amazon.com/images/M/MV5BODAwMTQ0Y2UtYmE0ZS00Mjc4LWExZTMtNTIzMjdmYTZlMTJkXkEyXkFqcGc@._V1_QL75_UX280_CR0,12,280,280_.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Zoe Saldaña",
+          "role": "Neytiri",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDFkMWQ5ZDItNGUzNS00YzI4LWIyOTctMDk0Mjc3MGQyZTYxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Sigourney Weaver",
+          "role": "Tifani",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk1MTcyNTE3OV5BMl5BanBnXkFtZTcwMTA0MTMyMw@@._V1_QL75_UX280_CR0,1,280,280_.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Stephen Lang",
+          "role": "Quaritch",
+          "image": "https://m.media-amazon.com/images/M/MV5BNjRkYTIxNmMtY2ZhNi00MmZlLWFiYWMtNjMwMzQwMWEyNTU1XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Oona Chaplin",
+          "role": "Varang",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjkwMjAyNjY4MF5BMl5BanBnXkFtZTcwMjA2MDg0Nw@@._V1_QL75_UX280_CR0,8,280,280_.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Kate Winslet",
+          "role": "Ronal",
+          "image": "https://m.media-amazon.com/images/M/MV5BODgzMzM2NTE0Ml5BMl5BanBnXkFtZTcwMTcyMTkyOQ@@._V1_QL75_UX280_CR0,29,280,280_.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Cliff Curtis",
+          "role": "Tonowari",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzNlNThkMWEtMmFlZS00ZGQ5LTk0ZWMtNzg3ODEyNGIwYjY0XkEyXkFqcGc@._V1_QL75_UX280_CR0,20,280,280_.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Joel David Moore",
+          "role": "Dr. Garvin",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmQ1ZWZkZmMtODg0NS00M2JlLWE3OTAtYTQ2ZWQzMGM4ZjYyXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "user": "MovimanBond",
+          "comment": "If you've seen the first two installments, the third is unlikely to surprise you. What we get once again is flawless, mesmerizing visuals stretched across nearly three hours of screen time, accompanied by familiar characters, predictable dramaturgy, and a storyline reduced to almost primitive straightforwardness."
+        },
+        {
+          "user": "Fabiesco",
+          "comment": "The third chapter of Avatar is stunning, just like the previous ones. Visually it's on another level, with some of the best CGI and world-building you'll see in a cinema. The soundtrack does a lot of heavy lifting too, in my opinion. So the cast does."
+        }
+      ],
+      "interview": {
+        "title": "Why James Cameron Is the 'Actor Whisperer'",
+        "description": "Avatar: Fire and Ash stars Sigourney Weaver, Jack Champion, Bailey Bass, and Trinity Jo-Li Bliss reveal what it's like to work with director James Cameron.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWQxMTEyZDYtMzBlNS00MjYxLThjZGEtYzIyNDljNDc4YWE4XkEyXkFqcGdeQWZlZGVyaWdh._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+      },
+      "more": [
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_QL75_UY414_CR0,0,280,414_.jpg",
+          "rate": 7.9,
+          "title": "Avatar"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+          "rate": 7.5,
+          "title": "Avatar: The Way of Water"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDFhYzVjZjgtYTlkZC00YmQ0LWFhNmMtM2EwNDRlZmZiYmFmXkEyXkFqcGc@._V1_QL75_UY414_CR67,0,280,414_.jpg",
+          "rate": 7.5,
+          "title": "Avatar4"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+          "rate": 8.3,
+          "title": "Marty Supreme"
+        }
+      ],
+      "related": [
+        {
+          "id": 1,
+          "image": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+          "title": "Action Epic"
+        },
+        {
+          "id": 3,
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE4NjIwMGYtYWQ4MC00NGIyLWI1YjQtNjJmZjllYjFjMDgzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "title": "Adventure Epic"
+        },
+        {
+          "id": 4,
+          "image": "https://m.media-amazon.com/images/M/MV5BZmZkMzI4YWEtMmIxMi00ZDA2LTk3MDMtNzVmOGQ1NzI5OTU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg",
+          "title": "Epic"
+        },
+        {
+          "id": 5,
+          "image": "https://m.media-amazon.com/images/M/MV5BNDY5ZTkyYTQtNTZmMC00YTU2LTg1NjItMjE4MDZhYmNiZTRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+          "title": "Fantasy Epic"
+        },
+        {
+          "id": 7,
+          "image": "https://m.media-amazon.com/images/M/MV5BODhjMDQ5MWMtMTFkMi00MjMyLTkyM2ItOTZmNzJkZjMyODg3XkEyXkFqcGc@._V1_QL75_UY563_CR172,0,1000,563_.jpg",
+          "title": "Sci-Fi Epic"
+        },
+        {
+          "id": 8,
+          "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "title": "Action"
+        },
+        {
+          "id": 9,
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTU2NDQ5Ml5BMl5BanBnXkFtZTcwMDIxMjk2Mw@@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
+          "title": "Fantasy"
+        },
+        {
+          "id": 10,
+          "image": "https://m.media-amazon.com/images/M/MV5BOTkxMzc0MDg5MV5BMl5BanBnXkFtZTcwNjUxMzA4NA@@._V1_QL75_UX1000_CR0,56,1000,563_.jpg",
+          "title": "Sci-Fi"
+        }
+      ],
+      "storyLine": "Jake and Neytiri's family grapples with grief, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "motion": {
+        "title": "Motion Picture Rating (MPA)",
+        "desc": "Rated PG-13 for intense sequences of violence and action, bloody images, some strong language, thematic elements and suggestive material"
+      },
+      "topPicks": [
+        {
+          "id": "1",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+          "rating": "9.5",
+          "name": "The Usual Suspects",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "2",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "9",
+          "name": "Chernobyl",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "3",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+          "rating": "8.5",
+          "name": "Léon: The Professional",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "4",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+          "rating": "8.3",
+          "name": "Terminator 2: Judgment Day",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "5",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "6",
+          "name": "Heads of State",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "6",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+          "rating": "8.8",
+          "name": "Pulp Fiction",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "7",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+          "rating": "8.2",
+          "name": "One Flew Over the Cuckoo",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "8",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,10,280,414_.jpg",
+          "rating": "7.3",
+          "name": "Back to the Future",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "9",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.5",
+          "name": "The Queen's Gambit",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "10",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "6.4",
+          "name": "Eddington",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "11",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.1",
+          "name": "Gladiator",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "12",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_QL75_UY414_CR20,0,280,414_.jpg",
+          "rating": "7.8",
+          "name": "Dexter",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "13",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "8.0",
+          "name": "Deadpool",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "14",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "8.9",
+          "name": "scarface",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "15",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.0",
+          "name": "Ratatouille",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "16",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.9",
+          "name": "The Dark Knight Rises",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "18",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+          "rating": "9.2",
+          "name": "Band of Brothers",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "19",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "9.3",
+          "name": "The Godfather Part II",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "20",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+          "rating": "9.7",
+          "name": "The Devil's Advocate",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "a594",
+          "image": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2918814/5921323/MOVGI2184__35960.1679571875.jpg?c=2",
+          "name": "no country for old men",
+          "rating": "8.3",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "2630",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "name": "shuter island",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "9b63",
+          "image": "https://m.media-amazon.com/images/I/71FcJqZjEqL._AC_UF894,1000_QL80_.jpg",
+          "name": "true detective",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "b355",
+          "image": "https://m.media-amazon.com/images/I/41+hF4S-cqL._AC_UF894,1000_QL80_.jpg",
+          "name": "The Sopranos",
+          "rating": "8.6",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "a37d",
+          "image": "https://i.pinimg.com/736x/d6/63/c5/d663c5d17d169bfb49f6536b5043d195.jpg",
+          "name": "breaking bad",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        }
+      ],
+      "details": [
+        {
+          "id": 1,
+          "title": "Release date",
+          "body": "December 19, 2025 (United States)"
+        },
+        {
+          "id": 2,
+          "title": "Countries of origin",
+          "body": "United States"
+        },
+        {
+          "id": 3,
+          "title": "Official site",
+          "body": "Official site"
+        },
+        {
+          "id": 4,
+          "title": "Language",
+          "body": "English"
+        },
+        {
+          "id": 5,
+          "title": "Filming locations",
+          "body": "New Zealand"
+        },
+        {
+          "id": 6,
+          "title": "Production companies",
+          "body": "20th Century Studios"
+        }
+      ],
+      "Box office": [
+        {
+          "id": 1,
+          "title": "Budget",
+          "body": "$400,000,000 (estimated)"
+        },
+        {
+          "id": 2,
+          "title": "Gross US & Canada",
+          "body": "$216,914,790"
+        },
+        {
+          "id": 3,
+          "title": "Opening weekend US & Canada",
+          "body": "$89,160,860"
+        },
+        {
+          "id": 4,
+          "title": "Gross worldwide",
+          "body": "$761,622,924"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Wake Up Dead Man",
+      "rate": "7.5/10",
+      "popular": 1,
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0OTA5MTEtNWU4NC00ZWFmLTg5NmYtNDFmODViYWUxZmJkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "posterVideo": "https://m.media-amazon.com/images/M/MV5BMzgzNzM2MzYtNTk1Mi00OGJiLWExYjQtNmUwOGNjMjIzYjA3XkEyXkFqcGdeQWpnYW1i._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+      "gif": "http://localhost:5173/public/gif/wake.gif",
+      "description": "Detective Benoit Blanc teams up with an earnest young priest to investigate a perfectly impossible crime at a small-town church with a dark history.",
+      "crew": {
+        "director": "Rian Johnson",
+        "writers": [
+          "Rian Johnson"
+        ]
+      },
+      "ratings": {
+        "imdb": {
+          "userReviews": "625",
+          "criticReviews": "185",
+          "metascore": 80
+        },
+        "awards": "4 wins & 35 nominations total",
+        "likes": {
+          "likeCount": "1.1k",
+          "loveCount": "312"
+        }
+      },
+      "images": {
+        "posters": [
+          "https://m.media-amazon.com/images/M/MV5BMzgzNzM2MzYtNTk1Mi00OGJiLWExYjQtNmUwOGNjMjIzYjA3XkEyXkFqcGdeQWpnYW1i._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BNmVkZThkYTktZDhlYi00NTBmLTlhZGMtYmRiNDU2MDVjNDYxXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        ],
+        "gallery": [
+          "https://m.media-amazon.com/images/M/MV5BYTA0OTU5MTItZGU2YS00ZWEzLWFiMGUtNzU1MDRhY2JhZGRjXkEyXkFqcGc@._V1_QL75_UX404_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BNjZmYzBhOTgtM2Q0MC00ZTlkLWJjYmUtZjEyMGZhZDMxZTNjXkEyXkFqcGc@._V1_QL75_UX328_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BZDhjMGE1M2QtMjJmYS00OWEyLTgxODMtZmU1ZjQzZjVhNWM5XkEyXkFqcGc@._V1_QL75_UX404_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMTE0OGYwNjgtYTU2Ni00ZDBjLTk0MjUtNDY0NTY4YWEyYjMxXkEyXkFqcGc@._V1_QL75_UX405_.jpg"
+        ]
+      },
+      "cast": [
+        {
+          "id": 1,
+          "name": "Daniel Craig",
+          "role": "Benoit Blanc",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjEzMjk4NDU4MF5BMl5BanBnXkFtZTcwMDMyNjQzMg@@._V1_QL75_UX280_CR0,22,280,280_.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Josh O'Connor",
+          "role": "Fr. Jud Duplenticy",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjExNDkwMDIzNF5BMl5BanBnXkFtZTgwMzk0MjA1NDM@._V1_QL75_UX280_CR0,21,280,280_.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Glenn Close",
+          "role": "Martha Delacroix",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTEwNDk5MTU2NTNeQTJeQWpwZ15BbWU3MDczNjEzMTM@._V1_QL75_UX280_CR0,0,280,280_.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Josh Brolin",
+          "role": "Jefferson Wicks",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MzYyMjQ0Nl5BMl5BanBnXkFtZTcwMTA0ODkyMg@@._V1_QL75_UX280_CR0,25,280,280_.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Jeremy Renner",
+          "role": "Dr. Nat Sharp",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTk2NDc2ODgzMF5BMl5BanBnXkFtZTcwMTMzOTQ4Nw@@._V1_QL75_UX280_CR0,46,280,280_.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Daryl McCormack",
+          "role": "Cy Draven",
+          "image": "https://m.media-amazon.com/images/M/MV5BZTA4NTRjYzgtYTU5Yi00MWZkLWI5M2MtMjkyMTkyYmQzYmU5XkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Cailee Spaeny",
+          "role": "Simone Vivane",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTU1NzA0MjEwNV5BMl5BanBnXkFtZTgwNTE5ODczNjM@._V1_QL75_UX280_CR0,0,280,280_.jpg"
+        },
+        {
+          "id": 8,
+          "name": "James Faulkner",
+          "role": "Nikolai",
+          "image": "https://m.media-amazon.com/images/M/MV5BODlmZjdhNGUtNzM2ZC00ZmUyLTk2OWItMDc4MjBkYjY1NzI0XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "id": 1,
+          "user": "SoumikBanerjee1996",
+          "comment": "Before diving into the murder mystery aspect, I want to take a moment and acknowledge the commentary done on faith here."
+        },
+        {
+          "id": 2,
+          "user": "trevorwomble",
+          "comment": "This is the third Knives Out film and whilst perhaps it doesn't hit the mad heights of ingenuity of Glass Onion, it's still highly watchable and way better than the recent Hercule Poirot films of Kenneth Branagh. Josh O'Connor is surprisingly good as the trouy."
+        }
+      ],
+      "interview": {
+        "title": "",
+        "description": "",
+        "poster": ""
+      },
+      "more": [
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_QL75_UY414_CR0,0,280,414_.jpg",
+          "rate": 7.9,
+          "title": "Avatar"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+          "rate": 7.5,
+          "title": "Avatar: The Way of Water"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDFhYzVjZjgtYTlkZC00YmQ0LWFhNmMtM2EwNDRlZmZiYmFmXkEyXkFqcGc@._V1_QL75_UY414_CR67,0,280,414_.jpg",
+          "rate": 7.5,
+          "title": "Avatar4"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+          "rate": 8.3,
+          "title": "Marty Supreme"
+        }
+      ],
+      "related": [
+        {
+          "id": 1,
+          "image": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+          "title": "Action Epic"
+        },
+        {
+          "id": 3,
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE4NjIwMGYtYWQ4MC00NGIyLWI1YjQtNjJmZjllYjFjMDgzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "title": "Adventure Epic"
+        },
+        {
+          "id": 4,
+          "image": "https://m.media-amazon.com/images/M/MV5BZmZkMzI4YWEtMmIxMi00ZDA2LTk3MDMtNzVmOGQ1NzI5OTU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg",
+          "title": "Epic"
+        },
+        {
+          "id": 5,
+          "image": "https://m.media-amazon.com/images/M/MV5BNDY5ZTkyYTQtNTZmMC00YTU2LTg1NjItMjE4MDZhYmNiZTRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+          "title": "Fantasy Epic"
+        },
+        {
+          "id": 7,
+          "image": "https://m.media-amazon.com/images/M/MV5BODhjMDQ5MWMtMTFkMi00MjMyLTkyM2ItOTZmNzJkZjMyODg3XkEyXkFqcGc@._V1_QL75_UY563_CR172,0,1000,563_.jpg",
+          "title": "Sci-Fi Epic"
+        },
+        {
+          "id": 8,
+          "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "title": "Action"
+        },
+        {
+          "id": 9,
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTU2NDQ5Ml5BMl5BanBnXkFtZTcwMDIxMjk2Mw@@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
+          "title": "Fantasy"
+        },
+        {
+          "id": 10,
+          "image": "https://m.media-amazon.com/images/M/MV5BOTkxMzc0MDg5MV5BMl5BanBnXkFtZTcwNjUxMzA4NA@@._V1_QL75_UX1000_CR0,56,1000,563_.jpg",
+          "title": "Sci-Fi"
+        }
+      ],
+      "storyLine": "Father Jud arrives in a quaint small town hoping to serve God, but finds only suspicion when the community's pillar is suddenly murdered. Branded an outsider and the prime suspect, the young priest is forced to join forces with Detective Blanc to expose the real killer.",
+      "genres": [
+        "religion",
+        "murder mystery",
+        "detective"
+      ],
+      "motion": {
+        "title": "Motion Picture Rating (MPA)",
+        "desc": "Rated PG-13 for violent content, bloody images, strong language, some crude sexual material, and smoking."
+      },
+      "topPicks": [
+        {
+          "id": "1",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+          "rating": "9.5",
+          "name": "The Usual Suspects",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "2",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "9",
+          "name": "Chernobyl",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "3",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+          "rating": "8.5",
+          "name": "Léon: The Professional",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "4",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+          "rating": "8.3",
+          "name": "Terminator 2: Judgment Day",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "5",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "6",
+          "name": "Heads of State",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "6",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+          "rating": "8.8",
+          "name": "Pulp Fiction",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "7",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+          "rating": "8.2",
+          "name": "One Flew Over the Cuckoo",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "8",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,10,280,414_.jpg",
+          "rating": "7.3",
+          "name": "Back to the Future",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "9",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.5",
+          "name": "The Queen's Gambit",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "10",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "6.4",
+          "name": "Eddington",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "11",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.1",
+          "name": "Gladiator",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "12",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_QL75_UY414_CR20,0,280,414_.jpg",
+          "rating": "7.8",
+          "name": "Dexter",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "13",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "8.0",
+          "name": "Deadpool",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "14",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "8.9",
+          "name": "scarface",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "15",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.0",
+          "name": "Ratatouille",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "16",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.9",
+          "name": "The Dark Knight Rises",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "18",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+          "rating": "9.2",
+          "name": "Band of Brothers",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "19",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "9.3",
+          "name": "The Godfather Part II",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "20",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+          "rating": "9.7",
+          "name": "The Devil's Advocate",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "a594",
+          "image": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2918814/5921323/MOVGI2184__35960.1679571875.jpg?c=2",
+          "name": "no country for old men",
+          "rating": "8.3",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "2630",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "name": "shuter island",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "9b63",
+          "image": "https://m.media-amazon.com/images/I/71FcJqZjEqL._AC_UF894,1000_QL80_.jpg",
+          "name": "true detective",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "b355",
+          "image": "https://m.media-amazon.com/images/I/41+hF4S-cqL._AC_UF894,1000_QL80_.jpg",
+          "name": "The Sopranos",
+          "rating": "8.6",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "a37d",
+          "image": "https://i.pinimg.com/736x/d6/63/c5/d663c5d17d169bfb49f6536b5043d195.jpg",
+          "name": "breaking bad",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        }
+      ],
+      "details": [
+        {
+          "id": 1,
+          "title": "Release date",
+          "body": "september 2, 2025 (United States)"
+        },
+        {
+          "id": 2,
+          "title": "Countries of origin",
+          "body": "Canada"
+        },
+        {
+          "id": 3,
+          "title": "Official site",
+          "body": "Official site"
+        },
+        {
+          "id": 4,
+          "title": "Language",
+          "body": "English"
+        },
+        {
+          "id": 5,
+          "title": "Filming locations",
+          "body": "New Zealand"
+        },
+        {
+          "id": 6,
+          "title": "Production companies",
+          "body": "Netflix"
+        }
+      ],
+      "Box office": [
+        {
+          "id": 1,
+          "title": "Budget",
+          "body": "$40,000,000 (estimated)"
+        },
+        {
+          "id": 2,
+          "title": "Gross US & Canada",
+          "body": "$216,914,790"
+        },
+        {
+          "id": 3,
+          "title": "Opening weekend US & Canada",
+          "body": "$9,160,860"
+        },
+        {
+          "id": 4,
+          "title": "Gross worldwide",
+          "body": "$761,622,924"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Stranger Things",
+      "rate": "8.7",
+      "popular": "2",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+      "gif": "http://localhost:5173/public/gif/str.gif",
+      "posterVideo": "https://m.media-amazon.com/images/M/MV5BNTViYjE3NjUtYWM1MS00ODhmLTgwYmItZWQ5YzRlZTNmNGI4XkEyXkFqcGdeQWFybm8@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+      "description": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
+      "crew": {
+        "director": "Matt Duffer",
+        "writers": [
+          "Ross Duffer"
+        ]
+      },
+      "ratings": {
+        "imdb": {
+          "rate": "8.7",
+          "userReviews": "4.5K",
+          "criticReviews": "484",
+          "metascore": "79"
+        },
+        "awards": "Won 12 Primetime Emmys",
+        "likes": {
+          "likeCount": "4.9k",
+          "loveCount": "893"
+        }
+      },
+      "images": {
+        "posters": [
+          "https://m.media-amazon.com/images/M/MV5BZWNkNmMxZTQtOTg2Mi00OTI2LTlhNzAtNjdhMzQzNTQ5MmM2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMWI4M2IzZGQtYjMzOC00MTMxLTg1N2UtYWU5MzhkODZjYzhmXkEyXkFqcGdeQXNvbG5vbXM@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+        ],
+        "gallery": [
+          "https://m.media-amazon.com/images/M/MV5BZjJmYjc2YTYtOTBiYy00OWY4LTkwODAtYWE0NWMxNDFmZmU3XkEyXkFqcGc@._V1_QL75_UX437_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMzYyYzYyZDUtMTIzMy00ZGE4LWJiOTgtOTZlNTYyNmM3YmVmXkEyXkFqcGc@._V1_QL75_UX437_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BNTc1ZWE3YTEtNTc2My00MzM4LTg0ZDYtZDA4ODA2NDE3ZDBiXkEyXkFqcGc@._V1_QL75_UX437_.jpg",
+          "https://m.media-amazon.com/images/M/MV5BMWJkOTU5NDctNzRkNS00M2ZiLWEzZjEtZmRjY2M1YWQzMjZmXkEyXkFqcGc@._V1_QL75_UX437_.jpg"
+        ]
+      },
+      "cast": [
+        {
+          "id": 1,
+          "name": "Millie Bobby Brown",
+          "role": "Eleven",
+          "image": "https://m.media-amazon.com/images/M/MV5BMjA5NzA0NzQzMF5BMl5BanBnXkFtZTgwMTQxNjUzNjM@._V1_QL75_UX280_CR0,24,280,280_.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Finn Wolfhard",
+          "role": "Mike Wheeler",
+          "image": "https://m.media-amazon.com/images/M/MV5BNTlkZmM3YTYtMWIyYS00Y2UwLTk0YjAtZTdmNmFjNjcyMDNiXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Winona Ryder",
+          "role": "Joyce Byers",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NzM3MTc2NF5BMl5BanBnXkFtZTcwODMxNjA0NA@@._V1_QL75_UX280_CR0,5,280,280_.jpg"
+        },
+        {
+          "id": 4,
+          "name": "David Harbour",
+          "role": "David Harbour",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjVkZmNiZGYtZTU3Mi00YzhhLWI1NzQtOTIyNWVmN2IwMjg2XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,280_.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Gaten Matarazzo",
+          "role": "Dustin",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTVkMzY0NWMtNTk1NC00ZGEwLWIwZjktM2U4MmFiN2YwYTQwXkEyXkFqcGc@._V1_QL75_UX280_CR0,24,280,280_.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Caleb McLaughlin",
+          "role": "Lucas",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTY2NDY0NDgwNF5BMl5BanBnXkFtZTgwNTE3NTUzNjM@._V1_QL75_UX280_CR0,27,280,280_.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Dacre Montgomery",
+          "role": "Billy ",
+          "image": "https://m.media-amazon.com/images/M/MV5BZWRkNGM1ZjMtYWQzMS00NzNlLTliZTItODg1OTE3YTQzNTJjXkEyXkFqcGc@._V1_QL75_UX280_CR0,22,280,280_.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Cara Buono",
+          "role": "Karen Wheeler",
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhlMDdlNjAtNDBkMi00ZGNjLWI5ZjItNGY1NjFhYzljY2MwXkEyXkFqcGc@._V1_CR721,97,3333,5000_QL75_UX280_CR0,24,280,280_.jpg"
+        }
+      ],
+      "comments": [
+        {
+          "user": "MovimanBond",
+          "comment": "If you've seen the first two installments, the third is unlikely to surprise you. What we get once again is flawless, mesmerizing visuals stretched across nearly three hours of screen time, accompanied by familiar characters, predictable dramaturgy, and a storyline reduced to almost primitive straightforwardness."
+        },
+        {
+          "user": "Fabiesco",
+          "comment": "The third chapter of Avatar is stunning, just like the previous ones. Visually it's on another level, with some of the best CGI and world-building you'll see in a cinema. The soundtrack does a lot of heavy lifting too, in my opinion. So the cast does."
+        }
+      ],
+      "interview": {
+        "title": "We Have Questions for the 'Stranger Things' Cast",
+        "description": "Millie Bobby Brown, Noah Schnapp, Natalia Dyer, Joe Keery, Charlie Heaton, Maya Hawke, and Jamie Campbell Bower tackle fan questions.",
+        "poster": "https://m.media-amazon.com/images/M/MV5BY2ZiNTcwNWMtYTU5Ny00MjJjLWIxMjUtMmU0NTk5ZmY0ODQzXkEyXkFqcGdeQWZlZGVyaWdh._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+      },
+      "more": [
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_QL75_UY414_CR0,0,280,414_.jpg",
+          "rate": 7.9,
+          "title": "Avatar"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+          "rate": 7.5,
+          "title": "Avatar: The Way of Water"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BZDFhYzVjZjgtYTlkZC00YmQ0LWFhNmMtM2EwNDRlZmZiYmFmXkEyXkFqcGc@._V1_QL75_UY414_CR67,0,280,414_.jpg",
+          "rate": 7.5,
+          "title": "Avatar4"
+        },
+        {
+          "poster": "https://m.media-amazon.com/images/M/MV5BZTRhYjI1MTItMWYwMi00MjY5LWI1OTktMzQwNzA3MWJlN2QyXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+          "rate": 8.3,
+          "title": "Marty Supreme"
+        }
+      ],
+      "related": [
+        {
+          "id": 1,
+          "image": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg",
+          "title": "Action Epic"
+        },
+        {
+          "id": 3,
+          "image": "https://m.media-amazon.com/images/M/MV5BNGE4NjIwMGYtYWQ4MC00NGIyLWI1YjQtNjJmZjllYjFjMDgzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "title": "Adventure Epic"
+        },
+        {
+          "id": 4,
+          "image": "https://m.media-amazon.com/images/M/MV5BZmZkMzI4YWEtMmIxMi00ZDA2LTk3MDMtNzVmOGQ1NzI5OTU2XkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg",
+          "title": "Epic"
+        },
+        {
+          "id": 5,
+          "image": "https://m.media-amazon.com/images/M/MV5BNDY5ZTkyYTQtNTZmMC00YTU2LTg1NjItMjE4MDZhYmNiZTRiXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg",
+          "title": "Fantasy Epic"
+        },
+        {
+          "id": 7,
+          "image": "https://m.media-amazon.com/images/M/MV5BODhjMDQ5MWMtMTFkMi00MjMyLTkyM2ItOTZmNzJkZjMyODg3XkEyXkFqcGc@._V1_QL75_UY563_CR172,0,1000,563_.jpg",
+          "title": "Sci-Fi Epic"
+        },
+        {
+          "id": 8,
+          "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+          "title": "Action"
+        },
+        {
+          "id": 9,
+          "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTU2NDQ5Ml5BMl5BanBnXkFtZTcwMDIxMjk2Mw@@._V1_QL75_UX1000_CR0,2,1000,563_.jpg",
+          "title": "Fantasy"
+        },
+        {
+          "id": 10,
+          "image": "https://m.media-amazon.com/images/M/MV5BOTkxMzc0MDg5MV5BMl5BanBnXkFtZTcwNjUxMzA4NA@@._V1_QL75_UX1000_CR0,56,1000,563_.jpg",
+          "title": "Sci-Fi"
+        }
+      ],
+      "storyLine": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to a child's disappearance, which begins to tear at the fabric of an otherwise-peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that more is going on than meets the eye.",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "motion": {
+        "title": "Motion Picture Rating (MPA)",
+        "desc": "Rated PG-13 for intense sequences of violence and action, bloody images, some strong language, thematic elements and suggestive material"
+      },
+      "topPicks": [
+        {
+          "id": "1",
+          "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+          "rating": "9.5",
+          "name": "The Usual Suspects",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "2",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "9",
+          "name": "Chernobyl",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "3",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+          "rating": "8.5",
+          "name": "Léon: The Professional",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "4",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+          "rating": "8.3",
+          "name": "Terminator 2: Judgment Day",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "5",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "6",
+          "name": "Heads of State",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "6",
+          "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+          "rating": "8.8",
+          "name": "Pulp Fiction",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "7",
+          "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+          "rating": "8.2",
+          "name": "One Flew Over the Cuckoo",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "8",
+          "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,10,280,414_.jpg",
+          "rating": "7.3",
+          "name": "Back to the Future",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "9",
+          "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.5",
+          "name": "The Queen's Gambit",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "10",
+          "image": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "6.4",
+          "name": "Eddington",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "11",
+          "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.1",
+          "name": "Gladiator",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "12",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_QL75_UY414_CR20,0,280,414_.jpg",
+          "rating": "7.8",
+          "name": "Dexter",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "13",
+          "image": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "8.0",
+          "name": "Deadpool",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "14",
+          "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "8.9",
+          "name": "scarface",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "15",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.0",
+          "name": "Ratatouille",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "16",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+          "rating": "8.9",
+          "name": "The Dark Knight Rises",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "18",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+          "rating": "9.2",
+          "name": "Band of Brothers",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "19",
+          "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+          "rating": "9.3",
+          "name": "The Godfather Part II",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "20",
+          "image": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+          "rating": "9.7",
+          "name": "The Devil's Advocate",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "a594",
+          "image": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2918814/5921323/MOVGI2184__35960.1679571875.jpg?c=2",
+          "name": "no country for old men",
+          "rating": "8.3",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "2630",
+          "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "name": "shuter island",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "9b63",
+          "image": "https://m.media-amazon.com/images/I/71FcJqZjEqL._AC_UF894,1000_QL80_.jpg",
+          "name": "true detective",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "b355",
+          "image": "https://m.media-amazon.com/images/I/41+hF4S-cqL._AC_UF894,1000_QL80_.jpg",
+          "name": "The Sopranos",
+          "rating": "8.6",
+          "link": "Watch now",
+          "end": "Trailer"
+        },
+        {
+          "id": "a37d",
+          "image": "https://i.pinimg.com/736x/d6/63/c5/d663c5d17d169bfb49f6536b5043d195.jpg",
+          "name": "breaking bad",
+          "rating": "9.1",
+          "link": "Watch now",
+          "end": "Trailer"
+        }
+      ],
+      "details": [
+        {
+          "id": 1,
+          "title": "Release date",
+          "body": "December 19, 2025 (United States)"
+        },
+        {
+          "id": 2,
+          "title": "Countries of origin",
+          "body": "United States"
+        },
+        {
+          "id": 3,
+          "title": "Official site",
+          "body": "Official site"
+        },
+        {
+          "id": 4,
+          "title": "Language",
+          "body": "English"
+        },
+        {
+          "id": 5,
+          "title": "Filming locations",
+          "body": "New Zealand"
+        },
+        {
+          "id": 6,
+          "title": "Production companies",
+          "body": "20th Century Studios"
+        }
+      ],
+      "Box office": [
+        {
+          "id": 1,
+          "title": "Budget",
+          "body": "$400,000,000 (estimated)"
+        },
+        {
+          "id": 2,
+          "title": "Gross US & Canada",
+          "body": "$216,914,790"
+        },
+        {
+          "id": 3,
+          "title": "Opening weekend US & Canada",
+          "body": "$89,160,860"
+        },
+        {
+          "id": 4,
+          "title": "Gross worldwide",
+          "body": "$761,622,924"
+        }
+      ]
+    }
+  ],
+  "categori": [
+    {
+      "id": "1",
+      "title": "Drama",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2MxZmYzMDItYzNkMS00YWY1LWIzNDktNTI3YTQxMGNjZjEzXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Horror",
+      "image": "https://m.media-amazon.com/images/M/MV5BNThjMTAxN2QtOTkyMS00Y2EwLTgyMDctOWY2NTY0MzYzZjQ0XkEyXkFqcGc@._V1_QL75_UY563_CR23,0,1000,563_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Comedy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjU5NjQyNTcwOV5BMl5BanBnXkFtZTcwMzc3NzUyMw@@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Thriller",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWM3ZjRhMDQtZDUzYi00NWY0LThhMDQtZTM2MjZmNjRlMTRmXkEyXkFqcGc@._V1_QL75_UY563_CR172,0,1000,563_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Hindi",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjYwYzBhNjMtNzNmMC00NDhkLTgxYjAtZjkyNDA5OWJlOTNjXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Action",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDU4ZmM1NjYtNGY2MS00NmE1LThiMzAtNzU3NWZhYmM0ZjgxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Anime",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGYzOTdhY2EtZjYwYi00ZjhmLWIwNjQtZjc1OWNmODcyOWMzXkEyXkFqcGc@._V1_QL75_UY563_CR25,0,1000,563_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Documentary",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmJiY2IzZGItMzA4Ni00OWVkLWJjZGUtZDYzNDllNjY4OGEwXkEyXkFqcGc@._V1_QL75_UX1000_CR0,94,1000,563_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Dark Comedy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxOTA2OTgzM15BMl5BanBnXkFtZTgwOTgzMzI5NzM@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Crime",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2M4MTFlOWMtYzhiYS00OGI3LTg0ODItODk3ODVjMzIyMmMyXkEyXkFqcGc@._V1_QL75_UX1000_CR0,52,1000,563_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Action Epic",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2RkNmFkZTItODFkMS00Yjk5LTg2YTQtMGQ0Zjc0Mzk3ZGQ5XkEyXkFqcGc@._V1_QL75_UY563_CR0,0,1000,563_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Sci-Fi",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTkxMzc0MDg5MV5BMl5BanBnXkFtZTcwNjUxMzA4NA@@._V1_QL75_UX1000_CR0,56,1000,563_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Spanish",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjA0Yzk5MzAtYTc4ZS00MGVjLTliZmItMTU3MTY2MjIzZGUxXkEyXkFqcGc@._V1_QL75_UX1000_CR0,92,1000,563_.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Animation",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzI1NDk0MzEzN15BMl5BanBnXkFtZTcwOTE0MjIyNw@@._V1_QL75_UY563_CR21,0,1000,563_.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Holiday Comedy",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDg2NDRkMjktYWVjMS00MTJjLTgxMTctNzM2ZWE2ODY2NmY0XkEyXkFqcGc@._V1_QL75_UX1000_CR0,0,1000,563_.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Adventure",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTlmNjQxNGItMmM1My00YTk2LTk2NjYtNTc4YWFjYTgxNTRiXkEyXkFqcGc@._V1_QL75_UY563_CR162,0,1000,563_.jpg"
+    }
+  ],
+  "footer": {
+    "recently": [
+      {
+        "id": "1",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+        "rating": "9.5",
+        "name": "The Usual Suspects",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "2",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "rating": "9",
+        "name": "Chernobyl",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "3",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+        "rating": "8.5",
+        "name": "Léon: The Professional",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "4",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+        "rating": "8.3",
+        "name": "Terminator 2: Judgment Day",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "5",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWFmNjg0ZGMtZmI5OC00YTAwLWFiMmMtOWRkNzQ0OTE1YWEwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "rating": "6",
+        "name": "Heads of State",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "6",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+        "rating": "8.8",
+        "name": "Pulp Fiction",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "7",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+        "rating": "8.2",
+        "name": "One Flew Over the Cuckoo",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "8",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,10,280,414_.jpg",
+        "rating": "7.3",
+        "name": "Back to the Future",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "9",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmRlNjQxNWQtMjk1OS00N2QxLTk0YWQtMzRhYjY5YTFhNjMxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "rating": "8.5",
+        "name": "The Queen's Gambit",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "10",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmM0Yzc1ZjAtZTg4My00NDI3LWEwMzAtY2ZkNzMxMWMwOTFlXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "rating": "6.4",
+        "name": "Eddington",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "11",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "rating": "8.1",
+        "name": "Gladiator",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "12",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_QL75_UY414_CR20,0,280,414_.jpg",
+        "rating": "7.8",
+        "name": "Dexter",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "13",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "rating": "8.0",
+        "name": "Deadpool",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "14",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "rating": "8.9",
+        "name": "scarface",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "15",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "rating": "8.0",
+        "name": "Ratatouille",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "16",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+        "rating": "8.9",
+        "name": "The Dark Knight Rises",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "18",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTdmOTEtZTRmMi00NTg5LWI5NmUtYTNiOTc0ZmNkODU0XkEyXkFqcGc@._V1_QL75_UY414_CR5,0,280,414_.jpg",
+        "rating": "9.2",
+        "name": "Band of Brothers",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "19",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+        "rating": "9.3",
+        "name": "The Godfather Part II",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "20",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_QL75_UY562_CR8,0,380,562_.jpg",
+        "rating": "9.7",
+        "name": "The Devil's Advocate",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "a594",
+        "image": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2918814/5921323/MOVGI2184__35960.1679571875.jpg?c=2",
+        "name": "no country for old men",
+        "rating": "8.3",
+        "link": "Watch now",
+        "end": "Trailer"
+      },
+      {
+        "id": "2630",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "name": "shuter island",
+        "rating": "9.1",
+        "link": "Watch now",
+        "end": "Trailer"
+      }
+    ]
+  },
+  "prime": [
+    {
+      "id": "1",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzE1MTZmY2ItMTgxNi00OGU5LTk4NTItMmY2ODFhYzhjZjRkXkEyXkFqcGc@._V1_QL75_UX280_CR0,42,280,414_.jpg",
+      "rate": "8.3",
+      "title": "Fallout"
+    },
+    {
+      "id": "2",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.1",
+      "title": "Red One"
+    },
+    {
+      "id": "3",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM2ZDYxNWItMDBlNS00ZWE0LWI5NTctMGY0NDBhMjA1OWMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rate": "6.3",
+      "title": "Oh. What. Fun."
+    },
+    {
+      "id": "4",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_QL75_UX280_CR0,2,280,414_.jpg",
+      "rate": "7.8",
+      "title": "fargo"
+    },
+    {
+      "id": "5",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGRlZDE2ZGEtZTU5Mi00ODdkLWFmMTEtY2UwMmViNWNmZjczXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rate": "8.6",
+      "title": "The Boys"
+    },
+    {
+      "id": "6",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmQ1ZjdhNTQtNzEwMi00MmIwLWEzYjYtODU0MjA4YmNkY2Y1XkEyXkFqcGc@._V1_QL75_UX280_CR0,42,280,414_.jpg",
+      "rate": "8.4",
+      "title": "The Mighty Nein"
+    },
+    {
+      "id": "7",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX280_CR0,1,280,414_.jpg",
+      "rate": "9.7",
+      "title": "The Lord of the Rings"
+    },
+    {
+      "id": "8",
+      "image": "https://m.media-amazon.com/images/M/MV5BODQwOGFjNGEtMTg1ZS00MmY4LTg0NTctYjVlNTNjZjRmZTcxXkEyXkFqcGc@._V1_QL75_UX280_CR0,14,280,414_.jpg",
+      "rate": "6,8",
+      "title": "The Grinch"
+    },
+    {
+      "id": "9",
+      "image": "https://m.media-amazon.com/images/M/MV5BODA1NDA1ODUtNGM0Ny00NWZkLTlhZmYtMzQ3NDk2OWZjNjMzXkEyXkFqcGc@._V1_QL75_UX280_CR0,42,280,414_.jpg",
+      "rate": "8.1",
+      "title": "The Night Manager"
+    },
+    {
+      "id": "10",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+      "rate": "9.0",
+      "title": "The Office"
+    },
+    {
+      "id": "11",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_QL75_UY414_CR2,0,280,414_.jpg",
+      "rate": "5.1",
+      "title": "Supernatural"
+    },
+    {
+      "id": "12",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGUwMTZjYTMtY2RmMC00N2MxLWE0MjktZGRiNjAwNjk3ZTQ5XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "7.1",
+      "title": "Chehre"
+    },
+    {
+      "id": "13",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "6.6",
+      "title": "The Tomorrow War"
+    },
+    {
+      "id": "14",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzE0NjU1MmUtZWUzMS00ZWRiLWE5ZjYtODk3NmRlMmExYWI1XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "5.6",
+      "title": "Without Remorse"
+    },
+    {
+      "id": "15",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NhODZjMTktOGNmOC00OTllLTk3NWItYzNiNmRlNTYwMTcxXkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "5.7",
+      "title": "Coming 2 America"
+    },
+    {
+      "id": "16",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY3NzYyNjI0N15BMl5BanBnXkFtZTgwNjYzMDc0NjM@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+      "rate": "7.1",
+      "title": "The Upside"
+    }
+  ],
+  "topBox": [
+    {
+      "id": "1",
+      "title": "Avatar: Fire and Ash",
+      "sell": "$63M",
+      "fullSell": "Total $242M"
+    },
+    {
+      "id": "2",
+      "title": "Zootopia 2",
+      "sell": "$20M",
+      "fullSell": "Total $333M"
+    },
+    {
+      "id": "3",
+      "title": "Marty Supreme",
+      "sell": "$18M",
+      "fullSell": "Total $37M"
+    },
+    {
+      "id": "4",
+      "title": "The Housemaid",
+      "sell": "$15M",
+      "fullSell": "Total $54M"
+    },
+    {
+      "id": "5",
+      "title": "Anaconda",
+      "sell": "$15M",
+      "fullSell": "Total $30M"
+    },
+    {
+      "id": "6",
+      "title": "David",
+      "sell": "$13M",
+      "fullSell": "Total $56M"
+    }
+  ],
+  "comingSoon": [
+    {
+      "id": "1",
+      "title": "Dracula",
+      "releaseDate": "Feb 6",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGI3ZTdiYjUtNzllMC00Y2YxLTlkNzctMGEwY2YzZjE4MjIyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Primate",
+      "releaseDate": "Jan 9",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDI4ZDAzMGQtZDE5Mi00NDE5LTk1ZjEtYzg5MWNmMjdlOTA3XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Mercy",
+      "releaseDate": "Jan 23",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTU4ODc3MGItZWJlZC00MGQ1LWJjN2YtOWI1ZDdhNjRlYWUwXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "4",
+      "title": "28 Years Later: The Bone Temple",
+      "releaseDate": "Jan 16",
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDlhZTktMGQ0Yy00ZTI2LTllYTktNjBkMTdkMDVlOGZjXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Greenland 2: Migration",
+      "releaseDate": "Jan 9",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzgzZTE0YmYtMDAwYy00Y2VhLWI1NjYtMmY5YmNmNDA5N2NmXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Feb 13",
+      "releaseDate": "Wuthering Heights ",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2YxZDhhMGMtM2NkZi00YmJlLWI2OTAtMWEyN2Q0M2FjMTY5XkEyXkFqcGdeQXZ3ZXNsZXk@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "We Bury the Dead",
+      "releaseDate": "Jan 2",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTkwODYtNzVhOC00M2QyLWIxNTctODBlY2MzZTQ3MzkzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Pillion",
+      "releaseDate": "Feb 6",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2U1Zjg3MWUtNjBiMi00ZmQ5LTk3MmItODhjNmQwMDNkMmE1XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Dead Man's Wire",
+      "releaseDate": "Jan 16",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2M1YTBlNjgtYjhiOS00MjZkLWEwMzktOGJjNzFjNWM3M2MyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Return to Silent Hill",
+      "releaseDate": "Jan 23",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDUxYjUxZjEtMWI5My00OTYwLTkzZmEtNWZjY2ExYTkyMjQ3XkEyXkFqcGdeQWFybm8@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "11",
+      "title": "GOAT",
+      "releaseDate": "Feb 13",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmJjNTU0ZWUtN2FjNi00YzMwLWExYzctMGViZDJhMzM2NzUzXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Good Luck, Have Fun",
+      "releaseDate": "Feb 13",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2ZkODhkNzAtOGZkZC00NmEwLWEwMDktNjE5YjdkOWFkMWNlXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UX760_CR0,0,760,428_.jpg"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "‘Zootopia 2’ Becomes Disney’s Highest-Grossing Animated Film Ever With $1.46 Billion, Beating ‘Frozen 2’",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+      "body": "The film hit the coveted $1 billion milestone after just 17 days of release, and it was the fastest PG-rated movie in history to do so. It’s been a particularly huge success in China, where many Hollywood movies have floundered in recent years. At just the Chinese box office, “Zootopia 2” has already zoomed past $500 million, the highest total for a U.S. movie by far. The only other film coming close is Disney"
+    },
+    {
+      "id": "2",
+      "title": "Isiah Whitlock Jr., ‘The Wire’ and ‘Veep’ Actor, Dies at 71",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyNjQ5MTgxMV5BMl5BanBnXkFtZTgwNjYxNjM2MzE@._V1_QL75_UX120_CR0,1,120,178_.jpg",
+      "body": "The Hollywood Reporter - Movie News"
+    },
+    {
+      "id": "3",
+      "title": "Jared Leto’s ‘Tron: Ares’ Sets Streaming Debut",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_QL75_UX120_CR0,0,120,178_.jpg",
+      "body": "The Hollywood Reporter - Movie News"
+    },
+    {
+      "id": "4",
+      "title": "‘Stranger Things 5’ Hits 34.5 Million Views After Volume 2 Drops, Helping Netflix to Its Best Christmas Viewership Ever",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_QL75_UY178_CR11,0,120,178_.jpg",
+      "body": ""
+    },
+    {
+      "id": "5",
+      "title": "It’s Going to Be a While Before ‘Pluribus’ Season 2, Says Vince Gilligan",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_QL75_UX120_CR0,1,120,178_.jpg",
+      "body": ""
+    }
+  ]
+}
